@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="Rahul Raj N| LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="_.rxhulrxj._| Instagram" title="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
+[<img align="left" alt="Rahul Raj N| Stackoverflow" title="Stackoverflow" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />][stackoverflow]
 
 <br />
 
@@ -41,3 +42,4 @@
 
 [instagram]: https://www.instagram.com/_.rxhulrxj._
 [linkedin]: https://www.linkedin.com/in/rahulraj2392
+[stackoverflow]: https://stackoverflow.com/users/16993232/rahul-raj-n
