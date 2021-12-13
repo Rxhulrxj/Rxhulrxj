@@ -2,11 +2,11 @@
 
 ---
 
-## I'm a Student and a Developer!!
+## I'm a Self-Learning Developer!!
 
 - 👀 Exploring and Learning Reactjs.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn More on Programming Languages.
+- 🥅 2021 Goals: Learning more on web development.
 - ⚡ Fun fact: I love to draw and play games.
 - 📫 Thanks for checking out and have a Nice day 👌
 
