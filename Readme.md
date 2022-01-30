@@ -43,3 +43,5 @@
 [instagram]: https://www.instagram.com/_.rxhulrxj._
 [linkedin]: https://www.linkedin.com/in/rahulraj2392
 [stackoverflow]: https://stackoverflow.com/users/16993232/rahul-raj-n
+
+![Rahul Raj N's github stats](https://github-readme-stats.vercel.app/api?username=Rxhulrxj&show_icons=true)
