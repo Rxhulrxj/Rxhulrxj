@@ -6,7 +6,7 @@
 
 - 👀 Exploring and Learning Reactjs.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learning more on web development.
+- 🥅 2022 Goals: Learning more on Django.
 - ⚡ Fun fact: I love to draw and play games.
 - 📫 Thanks for checking out and have a Nice day 👌
 
