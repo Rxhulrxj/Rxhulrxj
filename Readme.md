@@ -4,7 +4,7 @@
 
 ## I'm a Self-Learning Developer!!
 
-- 👀 Exploring and Learning Reactjs.
+- 👀 Exploring and Learning Reactjs and Machine Learning.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learning more on Machine Learning.
 - ⚡ Fun fact: I love to draw and play games.
