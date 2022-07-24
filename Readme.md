@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learning more on Machine Learning.
 - ⚡ Fun fact: I love to draw and play games.
-- 🏢 Job : Currently working as <b>Software Developer</b> at [Scope India](https://scopeindia.org/){:target="_blank" rel="noopener"}
+- 🏢 Job : Currently working as <b>Software Developer</b> at [Scope India](https://scopeindia.org/)
 - 📫 Thanks for checking out and have a Nice day 👌
 
 
