@@ -4,9 +4,9 @@
 
 ## I'm a Self-Learning Developer!!
 
-- 👀 Exploring and Learning Reactjs and Machine Learning.
+- 👀 Exploring and Learning NextJs and AI.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learning more on Machine Learning.
+- 🥅 2023 Goals: Learning more on Machine Learning.
 - ⚡ Fun fact: I love to draw and play games.
 - 🏢 Job : Currently working as <b>Software Developer</b> at [Suffix E Solutions](https://www.suffixesolutions.com/)
 - 📫 Thanks for checking out and have a Nice day 👌
@@ -20,23 +20,30 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="styled-components" title="styled-components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
-<img align="left" alt="tailwindcss" title="tailwindcss" width="26px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://img.icons8.com/?size=256&id=Nkym0Ujb8VGI&format=png" />
+<img align="left" alt="React" title="React" width="26px" src="https://img.icons8.com/?size=256&id=NfbyHexzVEDk&format=png" />
+<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://img.icons8.com/?size=256&id=54087&format=png" />
 <img align="left" alt="Python" title="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Django" title="Django" width="26px" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" />
-<img align="left" alt="Flutter" title="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Flutter" title="Flutter" width="26px" src="https://img.icons8.com/?size=256&id=7I3BjCqe9rjG&format=png" />
+<img align="left" alt="SQL" title="SQL" width="26px" src="https://img.icons8.com/?size=256&id=9nLaR5KFGjN0&format=png" />
+<img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Java" title="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Spring Boot" title="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+
+<br />
+<br />
+
+### Tools:
+
+<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://img.icons8.com/?size=256&id=9OGIyU8hrxW5&format=png" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />
-<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Android Studio" title="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img align="left" alt="Intellij" title="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
 
 <br />
 <br />
