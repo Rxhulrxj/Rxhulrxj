@@ -6,7 +6,7 @@
 
 - 👀 Exploring and Learning NextJs and AI.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learning more on Machine Learning.
+- 🥅 2024 Goals: Need to develop my skills more better.
 - ⚡ Fun fact: I love to draw and play games.
 - 🏢 Job : Currently working as <b>Software Developer</b> at [Suffix E Solutions](https://www.suffixesolutions.com/)
 - 📫 Thanks for checking out and have a Nice day 👌
