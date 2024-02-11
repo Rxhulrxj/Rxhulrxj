@@ -43,7 +43,6 @@
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="26px" src="https://img.icons8.com/plasticine/100/000000/github.png" />
 <img align="left" alt="Android Studio" title="Android Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Intellij" title="Intellij" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
 
 <br />
 <br />
